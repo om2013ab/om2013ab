@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar Ahmed Bashaiwth
+- 👋 Hi, I’m Omar Bashaiwth
 - 👀 I’m interested in Android development using Kotlin language
 - 🌱 I’m currently learning Jetpack Compose and Ktor
 - 💞️ I’m looking to take an internship to apply my skills in real projects
